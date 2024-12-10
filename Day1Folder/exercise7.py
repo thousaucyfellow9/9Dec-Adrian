@@ -11,5 +11,22 @@ Variables to create:
 Print out your calculation for a, b and c
 '''
 #Write your code below this line
+allowance = 20
+print(allowance*4)
+print(allowance*52)
+print(allowance*52 *10)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

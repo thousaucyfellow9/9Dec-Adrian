@@ -9,3 +9,18 @@ def hello():
   print("My name is Sam")
 
 hello()
+
+
+def bye():
+  print("Goodbye")
+  print("Friends")
+
+
+bye()
+
+
+def addition(num1, num2):
+  print("the output is")
+  print(num1 + num2)
+
+addition(5,6)
